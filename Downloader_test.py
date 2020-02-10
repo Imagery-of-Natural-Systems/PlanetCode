@@ -1,4 +1,4 @@
-#!pip install planet
+#pip install planet
 # !pip install requests
 # !pip install retrying
 
